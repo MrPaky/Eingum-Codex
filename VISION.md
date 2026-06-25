@@ -35,3 +35,7 @@ It will not be the last.
 The Codex is never finished.
 
 It only grows.
+
+The Codex does not invent knowledge.
+
+It reveals the patterns that were already there.
