@@ -1,4 +1,4 @@
-The Codex Begins
+# The Codex Begins
 
 Every world deserves more than a collection of notes.
 
@@ -8,9 +8,11 @@ Every city deserves more than a page.
 
 Every legend deserves to be remembered.
 
+---
+
 Eingum Codex was born from a simple idea:
 
-knowledge should feel magical.
+**Knowledge should feel magical.**
 
 It is not merely a visual theme for Obsidian.
 
@@ -24,9 +26,21 @@ Every layout guides the reader.
 
 Every page belongs to the same world.
 
+Every component behaves like the thing it represents.
+
+---
+
 We do not imitate printed books.
 
 We build something that could only exist in a digital codex.
+
+A codex where knowledge is discovered, not displayed.
+
+Where information unfolds layer by layer.
+
+Where every page invites the reader to continue.
+
+---
 
 Eingum is the first world that will inhabit these pages.
 
@@ -39,3 +53,5 @@ It only grows.
 The Codex does not invent knowledge.
 
 It reveals the patterns that were already there.
+
+27/06/2026
